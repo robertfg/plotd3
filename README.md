@@ -5,7 +5,7 @@ D3 plugins by PlotDB. Include following plugins:
 
  * responsive axes - plotd3.rwd.axis
  * responsive legend - plotd3.rwd.legend
- * interatcive popup - plotd3.html.popup
+ * interactive popup - plotd3.html.popup
 
 
 License
